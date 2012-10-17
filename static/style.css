@@ -1,7 +1,7 @@
 body{
-	background: url('/static/images/bg.png');
+	background: url('/static/images/bg.jpg');
 	background-size: auto;
-	background-position:scroll;
+	background-attachment:scroll;
 	background-repeat: no-repeat;
 }
 
